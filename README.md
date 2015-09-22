@@ -1,3 +1,3 @@
 # django-tutorial
 
-Rad fucking shit up in here
+Code from the django tutorial
